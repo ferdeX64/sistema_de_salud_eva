@@ -1,0 +1,155 @@
+buttons:
+  hsLoginOut: Cerrar sesión
+  hsfullscreen: Pantalla completa
+  hsexitfullscreen: Salir de pantalla completa
+  hsrefreshRoute: Actualizar ruta
+  hslogin: Login
+  hsadd: Agregar
+  hsmark: Marcar/Cancelar
+  hssave: Guardar
+  hssearch: Buscar
+  hsexpendAll: Expandir todo
+  hscollapseAll: Desplegar todo
+  hssystemSet: Abrir configuración de proyecto
+  hsdelete: Borrar
+  hsreload: Recargar
+  hscloseCurrentTab: Cerrar la pestaña actual
+  hscloseLeftTabs: Cerrar pestañas izquierdas
+  hscloseRightTabs: Cerrar pestañas derechas
+  hscloseOtherTabs: Cerrar otras pestañas
+  hscloseAllTabs: Cierra todas las pestañas
+  hswholeFullScreen: Pantalla completa
+  hswholeExitFullScreen: Salir de pantalla completa
+  hscontentFullScreen: Contenido en pantalla completa
+  hscontentExitFullScreen: Salir de pantalla completa
+menus:
+  hshome: Home
+  hslogin: Acceso
+  hsempty: Página vacía
+  hssysManagement: Gestión del sistema
+  hsUser:  Administrar usuarios
+  hsRole:  Gestión de roles
+  hsDept:  Gestión del departamento
+  hseditor:  Editor
+  hsabnormal:  Página anormal
+  hsfourZeroFour:  "404"
+  hsfourZeroOne:  "403"
+  hsFive:  "500"
+  hscomponents:  Componentes
+  hsdialog:  Componentes del diálogo
+  hsmessage:  Componentes de sugerencias de mensajes
+  hsvideo:  Componentes de vídeo
+  hssegmented:  Componentes segmentados
+  hswaterfall:  Componentes de la cascada
+  hsmap:  Componentes del mapa
+  hsdraggable:  Componentes arrastrables
+  hssplitPane:  Panel dividido
+  hsbutton:  Componentes del botón
+  hscropping:  Recorte de imágenes
+  hscountTo:  Animación Digital
+  hsselector:  Componentes selectores
+  hsflowChart:  Diagrama de flujo
+  hsseamless:  Desplazamiento sin costuras
+  hscontextmenu:  Menú de contexto
+  hstypeit:  Componentes tipográficos
+  hsjsoneditor:  Editor JSON
+  hsmenus:  Menú multinivel
+  hsmenu1:  Menú1
+  hsmenu1-1:  Menú1-1
+  hsmenu1-2:  Menú1-2
+  hsmenu1-2-1:  Menú1-2-1
+  hsmenu1-2-2:  Menú1-2-2
+  hsmenu1-3:  Menú1-3
+  hsmenu2:  Menú2
+  permission:  Gestión de permisos
+  permissionPage:  Permiso de página
+  permissionButton:  Permiso de botón
+  hstabs:  Operar con pestañas
+  hsguide:  Guía
+  hsAble:  Capaz
+  hsMenuTree:  Árbol de menú
+  hsVideoFrame:  Captura de fotogramas de vídeo
+  hsWavesurfer:  Visualización de audio
+  hsOptimize:  Antirrebote, Acelerador, Copiar, Directivas de pulsación larga
+  hsWatermark:  marca de agua
+  hsPrint:  Imprimir
+  hsDownload:  Descargar
+  hsExternalPage:  Página externa
+  hsPureDocument:  Pure Doc (integrado)
+  externalLink:  Pure Doc (externo)
+  hsEpDocument:  Element Plus Doc (integrado)
+  hsVueDocument:  Vue3 Doc (integrado)
+  hsViteDocument:  Vite Doc (integrado)
+  hsPiniaDocument:  Pinia Doc(Integrado)
+  hsRouterDocument:  Vue Router Doc (integrado)
+  hsTailwindcssDocument:  Tailwindcss Doc (integrado)
+  hsAbout:  Acerca de
+  hsResult:  Página de resultados
+  hsSuccess:  Página de éxito
+  hsFail:  Página fallida
+  hsIconSelect:  Seleccionar icono
+  hsTimeline:  Línea de tiempo
+  hsLineTree:  líneaárbol
+  hsList:  Página de lista
+  hsListCard:  Página de lista de tarjetas
+  hsDebounce:  Antirrebote y aceleración
+  hsFormDesign:  Diseño de formularios
+  hsBarcode:  Código de barras
+  hsQrcode:  Código QR
+  hsCascader:  Cascada de área
+  hsSwiper:  Complemento Swiper
+  hsVirtualList:  Lista virtual
+  hsPdf:  Vista previa de PDF
+  hsExcel:  Exportar Excel
+  hsInfiniteScroll:  Desplazamiento infinito de mesa
+  hsSensitive:  Filtro sensible
+  hsPinyin:  pinyin
+  hsdanmaku:  Componentes Danmaku
+  hsPureTableBase:  Uso básico
+  hsPureTableHigh:  Alto uso
+  hsTree:  Árbol de datos grandes
+  hsMenuoverflow:  Menú adicional Mostrar texto de información sobre herramientas
+  hsChildMenuoverflow:  Desbordamiento del menú secundario mostrar texto de información sobre herramientas
+
+status:
+  hsLoad: Cargando...
+login:
+  username: Username
+  password: Password
+  verifyCode: Código de verificación
+  remember: Recordar contraseña
+  sure: Contraseña segura
+  forget: ¿Contraseña olvidada?
+  login: Acceso
+  thirdLogin: Tercer inicio de sesión
+  phoneLogin: Iniciar sesión por teléfono
+  qRCodeLogin: Iniciar sesión con código QR
+  register: Registro
+  weChatLogin: Iniciar sesión
+  alipayLogin: Iniciar sesión
+  qqLogin: Iniciar sesión
+  weiboLogin: Iniciar sesión en Weibo
+  phone: Teléfono
+  smsVerifyCode: Código de verificación por SMS
+  back: Atrás
+  test: Simulacros de examen
+  tip: Después de escanear el código, haga clic en "Confirmar" t
+  definite: Definido
+  loginSuccess: Acceso exitoso
+  registerSuccess: Registro exitoso
+  tickPrivacy: Por favor marque Política de Privacidad
+  readAccept: Lo he leído atentamente y acepto
+  privacyPolicy: política de privacidad
+  getVerifyCode: Obtén un código verificador
+  info: Segundos
+  usernameReg: Por favor ingrese el nombre de usuario
+  passwordReg: Por favor, ingrese contraseña
+  verifyCodeReg: Por favor ingrese el código de verificación
+  verifyCodeCorrectReg: Por favor ingrese la verificación correcta
+  verifyCodeSixReg: Por favor ingresa una verificación de 6 dígitos
+  phoneReg: Por favor ingresa el teléfono
+  phoneCorrectReg: Por favor ingresa el teléfono correcto
+  passwordRuleReg: El formato de la contraseña debe ser
+  passwordSureReg: Por favor ingrese confirmar contraseña
+  passwordDifferentReg: Las dos contraseñas no
+  passwordUpdateReg: La contraseña ha sido actualizada
